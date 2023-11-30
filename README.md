@@ -29,3 +29,6 @@
 <a href=https://go.dev><img src="https://skillicons.dev/icons?i=go" /></a>&nbsp;
 <a href=https://www.rust-lang.org><img src="https://skillicons.dev/icons?i=rust" /></a>
 </p>
+
+## Recent GitHub Activity
+<!--START_SECTION:activity-->
