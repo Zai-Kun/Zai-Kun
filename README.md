@@ -6,19 +6,23 @@
 
 ### My GitHub stats
 
-<a href="https://github.com/Zai-Kun#gh-dark-mode-only">
-  <img height="200" align="top" src="https://github-readme-stats.vercel.app/api?username=Zai-Kun&theme=monokai&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<a href= "https://discord.com/users/705624271308849224#gh-dark-mode-only">
-  <img height="200" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zai-Kun&theme=monokai&show_icons=true&hide_border=true&layout=compact" />
-</a>
+<p>
+  <a href = "https://github.com/Zai-Kun">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zai-Kun&theme=monokai&show_icons=true&hide_border=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zai-Kun&theme=buefy&show_icons=true&hide_border=true&count_private=true">
+      <img height="200" align="top" src="https://github-readme-stats.vercel.app/api?username=Zai-Kun&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+    </picture>
+  </a>&nbsp;
 
-<a href="https://github.com/Zai-Kun#gh-light-mode-only">
-  <img height="200" align="top" src="https://github-readme-stats.vercel.app/api?username=Zai-Kun&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<a href= "https://discord.com/users/705624271308849224#gh-light-mode-only">
-  <img height="200" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zai-Kun&theme=buefy&show_icons=true&hide_border=true&layout=compact" />
-</a>
+  <a href = "https://github.com/Zai-Kun">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zai-Kun&theme=monokai&show_icons=true&hide_border=true&layout=compact">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zai-Kun&theme=buefy&show_icons=true&hide_border=true&layout=compact">
+      <img height="200" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zai-Kun&theme=buefy&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages">
+    </picture>
+  </a>
+</p>
 
 <hr>
 
