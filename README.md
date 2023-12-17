@@ -36,14 +36,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1857771977) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-2. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1856250640) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-3. 🎉 Merged PR [#11](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/11) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-4. 💪 Opened PR [#11](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/11) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-5. 🚀 Published release [v2.5](https://github.com/Zai-Kun/reverse-engineered-chatgpt/releases/tag/source) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-6. 🎉 Merged PR [#10](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/10) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-7. 💪 Opened PR [#10](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/10) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-8. 🗣 Commented on [#1](https://github.com/MarcoSa-2000/animegifs/pull/1#issuecomment-1837241613) in [MarcoSa-2000/animegifs](https://github.com/MarcoSa-2000/animegifs)
-9. 💪 Opened PR [#617](https://github.com/dolfies/discord.py-self/pull/617) in [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self)
-10. 🎉 Merged PR [#3](https://github.com/Zai-Kun/Zai-Kun/pull/3) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
+1. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1859146975) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+2. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1857771977) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+3. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1856250640) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+4. 🎉 Merged PR [#11](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/11) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+5. 💪 Opened PR [#11](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/11) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+6. 🚀 Published release [v2.5](https://github.com/Zai-Kun/reverse-engineered-chatgpt/releases/tag/source) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+7. 🎉 Merged PR [#10](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/10) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+8. 💪 Opened PR [#10](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/10) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+9. 🗣 Commented on [#1](https://github.com/MarcoSa-2000/animegifs/pull/1#issuecomment-1837241613) in [MarcoSa-2000/animegifs](https://github.com/MarcoSa-2000/animegifs)
+10. 💪 Opened PR [#617](https://github.com/dolfies/discord.py-self/pull/617) in [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self)
 <!--END_SECTION:activity-->
