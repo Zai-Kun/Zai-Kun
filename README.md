@@ -36,14 +36,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1513](https://github.com/modularml/mojo/issues/1513) in [modularml/mojo](https://github.com/modularml/mojo)
-2. 🔒 Closed issue [#1512](https://github.com/modularml/mojo/issues/1512) in [modularml/mojo](https://github.com/modularml/mojo)
-3. ❗ Opened issue [#1512](https://github.com/modularml/mojo/issues/1512) in [modularml/mojo](https://github.com/modularml/mojo)
-4. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1859146975) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-5. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1857771977) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-6. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1856250640) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-7. 🎉 Merged PR [#11](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/11) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-8. 💪 Opened PR [#11](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/11) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-9. 🚀 Published release [v2.5](https://github.com/Zai-Kun/reverse-engineered-chatgpt/releases/tag/source) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-10. 🎉 Merged PR [#10](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/10) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+1. 💪 Opened PR [#55](https://github.com/sonnylazuardi/chat-ai-desktop/pull/55) in [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop)
+2. ❗ Opened issue [#1513](https://github.com/modularml/mojo/issues/1513) in [modularml/mojo](https://github.com/modularml/mojo)
+3. 🔒 Closed issue [#1512](https://github.com/modularml/mojo/issues/1512) in [modularml/mojo](https://github.com/modularml/mojo)
+4. ❗ Opened issue [#1512](https://github.com/modularml/mojo/issues/1512) in [modularml/mojo](https://github.com/modularml/mojo)
+5. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1859146975) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+6. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1857771977) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+7. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1856250640) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+8. 🎉 Merged PR [#11](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/11) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+9. 💪 Opened PR [#11](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/11) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+10. 🚀 Published release [v2.5](https://github.com/Zai-Kun/reverse-engineered-chatgpt/releases/tag/source) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
 <!--END_SECTION:activity-->
