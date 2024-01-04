@@ -36,14 +36,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/17) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-2. 🗣 Commented on [#17](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/17#issuecomment-1876747395) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-3. 🗣 Commented on [#16](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/16#issuecomment-1875416207) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-4. 🔒 Closed issue [#16](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/16) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-5. 🔒 Closed issue [#15](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/15) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-6. 🗣 Commented on [#15](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/15#issuecomment-1874046972) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-7. 🎉 Merged PR [#14](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/14) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-8. 💪 Opened PR [#14](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/14) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-9. 🚀 Published release [v2.9.5](https://github.com/Zai-Kun/reverse-engineered-chatgpt/releases/tag/v2.9.5) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-10. 🎉 Merged PR [#13](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/13) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+1. 🗣 Commented on [#15](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/15#issuecomment-1876782213) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+2. 🔒 Closed issue [#17](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/17) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+3. 🗣 Commented on [#17](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/17#issuecomment-1876747395) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+4. 🗣 Commented on [#16](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/16#issuecomment-1875416207) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+5. 🔒 Closed issue [#16](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/16) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+6. 🔒 Closed issue [#15](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/15) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+7. 🗣 Commented on [#15](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/15#issuecomment-1874046972) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+8. 🎉 Merged PR [#14](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/14) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+9. 💪 Opened PR [#14](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/14) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+10. 🚀 Published release [v2.9.5](https://github.com/Zai-Kun/reverse-engineered-chatgpt/releases/tag/v2.9.5) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
 <!--END_SECTION:activity-->
