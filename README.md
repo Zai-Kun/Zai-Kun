@@ -36,14 +36,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/22#issuecomment-1895432171) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-2. 🔒 Closed issue [#21](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/21) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-3. 🗣 Commented on [#21](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/21#issuecomment-1892164006) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-4. 🗣 Commented on [#18](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/18#issuecomment-1882881191) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-5. 🚀 Published release [v3.0.1](https://github.com/Zai-Kun/reverse-engineered-chatgpt/releases/tag/v3.0.1) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-6. 🗣 Commented on [#15](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/15#issuecomment-1876782213) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-7. 🔒 Closed issue [#17](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/17) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-8. 🗣 Commented on [#17](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/17#issuecomment-1876747395) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-9. 🗣 Commented on [#16](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/16#issuecomment-1875416207) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-10. 🔒 Closed issue [#16](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/16) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+1. 🗣 Commented on [#22](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/22#issuecomment-1898045088) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+2. 🗣 Commented on [#22](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/22#issuecomment-1895432171) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+3. 🔒 Closed issue [#21](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/21) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+4. 🗣 Commented on [#21](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/21#issuecomment-1892164006) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+5. 🗣 Commented on [#18](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/18#issuecomment-1882881191) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+6. 🚀 Published release [v3.0.1](https://github.com/Zai-Kun/reverse-engineered-chatgpt/releases/tag/v3.0.1) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+7. 🗣 Commented on [#15](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/15#issuecomment-1876782213) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+8. 🔒 Closed issue [#17](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/17) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+9. 🗣 Commented on [#17](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/17#issuecomment-1876747395) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+10. 🗣 Commented on [#16](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/16#issuecomment-1875416207) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
 <!--END_SECTION:activity-->
