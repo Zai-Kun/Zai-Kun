@@ -36,8 +36,8 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Zai-Kun/py-arkose-token-generator/pull/10) in [Zai-Kun/py-arkose-token-generator](https://github.com/Zai-Kun/py-arkose-token-generator)
-2. 🎉 Merged PR [#43](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/43) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+1. 🎉 Merged PR [#1](https://github.com/Zai-Kun/instructions/pull/1) in [Zai-Kun/instructions](https://github.com/Zai-Kun/instructions)
+2. 🎉 Merged PR [#10](https://github.com/Zai-Kun/py-arkose-token-generator/pull/10) in [Zai-Kun/py-arkose-token-generator](https://github.com/Zai-Kun/py-arkose-token-generator)
 3. 🎉 Merged PR [#40](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/40) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
 4. 🎉 Merged PR [#37](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/37) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
 5. 🎉 Merged PR [#33](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/33) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
