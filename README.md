@@ -36,9 +36,9 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#338](https://github.com/snapview/tokio-tungstenite/issues/338) in [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)
-2. 🎉 Merged PR [#1](https://github.com/Zai-Kun/instructions/pull/1) in [Zai-Kun/instructions](https://github.com/Zai-Kun/instructions)
-3. 🎉 Merged PR [#40](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/40) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
+1. 🚀 Published release [RustyGoGoDl v1.0.0](https://github.com/Zai-Kun/rusty-gogo-dl/releases/tag/v1.0.0) in [Zai-Kun/rusty-gogo-dl](https://github.com/Zai-Kun/rusty-gogo-dl)
+2. ❗ Opened issue [#338](https://github.com/snapview/tokio-tungstenite/issues/338) in [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)
+3. 🎉 Merged PR [#1](https://github.com/Zai-Kun/instructions/pull/1) in [Zai-Kun/instructions](https://github.com/Zai-Kun/instructions)
 4. 🎉 Merged PR [#37](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/37) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
 5. 🎉 Merged PR [#33](https://github.com/Zai-Kun/reverse-engineered-chatgpt/pull/33) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
 6. 🗣 Commented on [#32](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/32#issuecomment-1990929667) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
