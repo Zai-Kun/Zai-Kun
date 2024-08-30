@@ -36,14 +36,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322344372) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-2. ❗ Opened issue [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-3. 🗣 Commented on [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1#issuecomment-2291616811) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
-4. 🔒 Closed issue [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
-5. 🗣 Commented on [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1#issuecomment-2291065460) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
-6. ❗ Opened issue [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
-7. 🎉 Merged PR [#1](https://github.com/Zai-Kun/dotfiles/pull/1) in [Zai-Kun/dotfiles](https://github.com/Zai-Kun/dotfiles)
-8. 🗣 Commented on [#98](https://github.com/OpenAsar/arrpc/issues/98#issuecomment-2209573335) in [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc)
-9. 🚀 Published release [RustyGoGoDl v1.0.0](https://github.com/Zai-Kun/rusty-gogo-dl/releases/tag/v1.0.0) in [Zai-Kun/rusty-gogo-dl](https://github.com/Zai-Kun/rusty-gogo-dl)
-10. ❗ Opened issue [#338](https://github.com/snapview/tokio-tungstenite/issues/338) in [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)
+1. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322460675) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+2. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322344372) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+3. ❗ Opened issue [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+4. 🗣 Commented on [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1#issuecomment-2291616811) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
+5. 🔒 Closed issue [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
+6. 🗣 Commented on [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1#issuecomment-2291065460) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
+7. ❗ Opened issue [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
+8. 🎉 Merged PR [#1](https://github.com/Zai-Kun/dotfiles/pull/1) in [Zai-Kun/dotfiles](https://github.com/Zai-Kun/dotfiles)
+9. 🗣 Commented on [#98](https://github.com/OpenAsar/arrpc/issues/98#issuecomment-2209573335) in [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc)
+10. 🚀 Published release [RustyGoGoDl v1.0.0](https://github.com/Zai-Kun/rusty-gogo-dl/releases/tag/v1.0.0) in [Zai-Kun/rusty-gogo-dl](https://github.com/Zai-Kun/rusty-gogo-dl)
 <!--END_SECTION:activity-->
