@@ -36,14 +36,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322889502) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-2. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322460675) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-3. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322344372) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-4. ❗ Opened issue [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-5. 🗣 Commented on [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1#issuecomment-2291616811) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
-6. 🔒 Closed issue [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
-7. 🗣 Commented on [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1#issuecomment-2291065460) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
-8. ❗ Opened issue [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
-9. 🎉 Merged PR [#1](https://github.com/Zai-Kun/dotfiles/pull/1) in [Zai-Kun/dotfiles](https://github.com/Zai-Kun/dotfiles)
-10. 🗣 Commented on [#98](https://github.com/OpenAsar/arrpc/issues/98#issuecomment-2209573335) in [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc)
+1. 💪 Opened PR [#16062](https://github.com/is-a-dev/register/pull/16062) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322889502) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+3. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322460675) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+4. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322344372) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+5. ❗ Opened issue [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+6. 🗣 Commented on [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1#issuecomment-2291616811) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
+7. 🔒 Closed issue [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
+8. 🗣 Commented on [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1#issuecomment-2291065460) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
+9. ❗ Opened issue [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
+10. 🎉 Merged PR [#1](https://github.com/Zai-Kun/dotfiles/pull/1) in [Zai-Kun/dotfiles](https://github.com/Zai-Kun/dotfiles)
 <!--END_SECTION:activity-->
