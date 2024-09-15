@@ -36,14 +36,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1544](https://github.com/open-domains/register/pull/1544#issuecomment-2350789421) in [open-domains/register](https://github.com/open-domains/register)
-2. 💪 Opened PR [#1544](https://github.com/open-domains/register/pull/1544) in [open-domains/register](https://github.com/open-domains/register)
-3. 🗣 Commented on [#16062](https://github.com/is-a-dev/register/pull/16062#issuecomment-2347274683) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💪 Opened PR [#16062](https://github.com/is-a-dev/register/pull/16062) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322889502) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-6. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322460675) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-7. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322344372) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-8. ❗ Opened issue [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-9. 🗣 Commented on [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1#issuecomment-2291616811) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
-10. 🔒 Closed issue [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
+1. 💪 Opened PR [#16105](https://github.com/is-a-dev/register/pull/16105) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#1544](https://github.com/open-domains/register/pull/1544#issuecomment-2350789421) in [open-domains/register](https://github.com/open-domains/register)
+3. 💪 Opened PR [#1544](https://github.com/open-domains/register/pull/1544) in [open-domains/register](https://github.com/open-domains/register)
+4. 🗣 Commented on [#16062](https://github.com/is-a-dev/register/pull/16062#issuecomment-2347274683) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 💪 Opened PR [#16062](https://github.com/is-a-dev/register/pull/16062) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322889502) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+7. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322460675) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+8. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322344372) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+9. ❗ Opened issue [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+10. 🗣 Commented on [#1](https://github.com/orxngc/walls-catppuccin-mocha/issues/1#issuecomment-2291616811) in [orxngc/walls-catppuccin-mocha](https://github.com/orxngc/walls-catppuccin-mocha)
 <!--END_SECTION:activity-->
