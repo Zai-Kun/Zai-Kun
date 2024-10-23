@@ -36,14 +36,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#74](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme/issues/74) in [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme)
-2. 💪 Opened PR [#16105](https://github.com/is-a-dev/register/pull/16105) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#1544](https://github.com/open-domains/register/pull/1544#issuecomment-2350789421) in [open-domains/register](https://github.com/open-domains/register)
-4. 💪 Opened PR [#1544](https://github.com/open-domains/register/pull/1544) in [open-domains/register](https://github.com/open-domains/register)
-5. 🗣 Commented on [#16062](https://github.com/is-a-dev/register/pull/16062#issuecomment-2347274683) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. 💪 Opened PR [#16062](https://github.com/is-a-dev/register/pull/16062) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322889502) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-8. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322460675) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-9. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322344372) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
-10. ❗ Opened issue [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+1. ❗ Opened issue [#14](https://github.com/Blatzar/scraping-tutorial/issues/14) in [Blatzar/scraping-tutorial](https://github.com/Blatzar/scraping-tutorial)
+2. ❗ Opened issue [#74](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme/issues/74) in [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme)
+3. 💪 Opened PR [#16105](https://github.com/is-a-dev/register/pull/16105) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#1544](https://github.com/open-domains/register/pull/1544#issuecomment-2350789421) in [open-domains/register](https://github.com/open-domains/register)
+5. 💪 Opened PR [#1544](https://github.com/open-domains/register/pull/1544) in [open-domains/register](https://github.com/open-domains/register)
+6. 🗣 Commented on [#16062](https://github.com/is-a-dev/register/pull/16062#issuecomment-2347274683) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. 💪 Opened PR [#16062](https://github.com/is-a-dev/register/pull/16062) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322889502) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+9. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322460675) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+10. 🗣 Commented on [#25](https://github.com/ozwaldorf/lutgen-rs/issues/25#issuecomment-2322344372) in [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
 <!--END_SECTION:activity-->
