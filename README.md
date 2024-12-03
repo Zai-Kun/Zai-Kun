@@ -36,14 +36,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.2](https://github.com/Zai-Kun/rustyclip/releases/tag/v0.1.2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-2. 🚀 Published release [v0.1.1](https://github.com/Zai-Kun/rustyclip/releases/tag/v0.1.1) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-3. 🔒 Closed issue [#1](https://github.com/Zai-Kun/rustyclip/issues/1) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-4. 🎉 Merged PR [#2](https://github.com/Zai-Kun/rustyclip/pull/2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-5. 💪 Opened PR [#2](https://github.com/Zai-Kun/rustyclip/pull/2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-6. 🗣 Commented on [#1](https://github.com/Zai-Kun/rustyclip/issues/1#issuecomment-2496112349) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-7. 🗣 Commented on [#1](https://github.com/SenZmaKi/Test/issues/1#issuecomment-2481425479) in [SenZmaKi/Test](https://github.com/SenZmaKi/Test)
-8. 🗣 Commented on [#1](https://github.com/SenZmaKi/Test/issues/1#issuecomment-2478380178) in [SenZmaKi/Test](https://github.com/SenZmaKi/Test)
-9. 🔒 Closed issue [#1](https://github.com/SenZmaKi/Test/issues/1) in [SenZmaKi/Test](https://github.com/SenZmaKi/Test)
-10. 🎉 Merged PR [#1](https://github.com/Zai-Kun/spotify-downloader/pull/1) in [Zai-Kun/spotify-downloader](https://github.com/Zai-Kun/spotify-downloader)
+1. 💪 Opened PR [#752](https://github.com/is-a-good-dev/register/pull/752) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+2. 🚀 Published release [v0.1.2](https://github.com/Zai-Kun/rustyclip/releases/tag/v0.1.2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+3. 🚀 Published release [v0.1.1](https://github.com/Zai-Kun/rustyclip/releases/tag/v0.1.1) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+4. 🔒 Closed issue [#1](https://github.com/Zai-Kun/rustyclip/issues/1) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+5. 🎉 Merged PR [#2](https://github.com/Zai-Kun/rustyclip/pull/2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+6. 💪 Opened PR [#2](https://github.com/Zai-Kun/rustyclip/pull/2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+7. 🗣 Commented on [#1](https://github.com/Zai-Kun/rustyclip/issues/1#issuecomment-2496112349) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+8. 🗣 Commented on [#1](https://github.com/SenZmaKi/Test/issues/1#issuecomment-2481425479) in [SenZmaKi/Test](https://github.com/SenZmaKi/Test)
+9. 🗣 Commented on [#1](https://github.com/SenZmaKi/Test/issues/1#issuecomment-2478380178) in [SenZmaKi/Test](https://github.com/SenZmaKi/Test)
+10. 🔒 Closed issue [#1](https://github.com/SenZmaKi/Test/issues/1) in [SenZmaKi/Test](https://github.com/SenZmaKi/Test)
 <!--END_SECTION:activity-->
