@@ -1,4 +1,4 @@
-## Hey there, my name is [Zai](https://github.com/Zai-Kun). 👋
+## Hey there, I go by [Zai](https://github.com/Zai-Kun). 👋
 
 ![Zai-Kun GitHub User stars](https://img.shields.io/github/stars/Zai-Kun?color=yellow&style=flat-square&label=Stars&affiliations=OWNER)
 [![Zai-Kun GitHub followers](https://img.shields.io/github/followers/Zai-Kun?color=green&style=flat-square&label=Followers)](https://github.com/Zai-Kun?tab=followers)
@@ -30,7 +30,6 @@
 
 <p align="left">
 <a href=https://www.python.org><img src="https://skillicons.dev/icons?i=python" /></a>&nbsp;
-<a href=https://go.dev><img src="https://skillicons.dev/icons?i=go" /></a>&nbsp;
 <a href=https://www.rust-lang.org><img src="https://skillicons.dev/icons?i=rust" /></a>
 </p>
 
