@@ -35,14 +35,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#238](https://github.com/artemsen/swayimg/issues/238#issuecomment-2590304034) in [artemsen/swayimg](https://github.com/artemsen/swayimg)
-2. ❗ Opened issue [#238](https://github.com/artemsen/swayimg/issues/238) in [artemsen/swayimg](https://github.com/artemsen/swayimg)
-3. 🗣 Commented on [#752](https://github.com/is-a-good-dev/register/pull/752#issuecomment-2516409108) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. 💪 Opened PR [#752](https://github.com/is-a-good-dev/register/pull/752) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-5. 🚀 Published release [v0.1.2](https://github.com/Zai-Kun/rustyclip/releases/tag/v0.1.2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-6. 🚀 Published release [v0.1.1](https://github.com/Zai-Kun/rustyclip/releases/tag/v0.1.1) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-7. 🔒 Closed issue [#1](https://github.com/Zai-Kun/rustyclip/issues/1) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-8. 🎉 Merged PR [#2](https://github.com/Zai-Kun/rustyclip/pull/2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-9. 💪 Opened PR [#2](https://github.com/Zai-Kun/rustyclip/pull/2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
-10. 🗣 Commented on [#1](https://github.com/Zai-Kun/rustyclip/issues/1#issuecomment-2496112349) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+1. ❗ Opened issue [#19](https://github.com/gaultier/blog/issues/19) in [gaultier/blog](https://github.com/gaultier/blog)
+2. 🗣 Commented on [#238](https://github.com/artemsen/swayimg/issues/238#issuecomment-2590304034) in [artemsen/swayimg](https://github.com/artemsen/swayimg)
+3. ❗ Opened issue [#238](https://github.com/artemsen/swayimg/issues/238) in [artemsen/swayimg](https://github.com/artemsen/swayimg)
+4. 🗣 Commented on [#752](https://github.com/is-a-good-dev/register/pull/752#issuecomment-2516409108) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+5. 💪 Opened PR [#752](https://github.com/is-a-good-dev/register/pull/752) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+6. 🚀 Published release [v0.1.2](https://github.com/Zai-Kun/rustyclip/releases/tag/v0.1.2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+7. 🚀 Published release [v0.1.1](https://github.com/Zai-Kun/rustyclip/releases/tag/v0.1.1) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+8. 🔒 Closed issue [#1](https://github.com/Zai-Kun/rustyclip/issues/1) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+9. 🎉 Merged PR [#2](https://github.com/Zai-Kun/rustyclip/pull/2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+10. 💪 Opened PR [#2](https://github.com/Zai-Kun/rustyclip/pull/2) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
 <!--END_SECTION:activity-->
