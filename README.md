@@ -35,14 +35,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#110](https://github.com/elast0ny/shared_memory/issues/110) in [elast0ny/shared_memory](https://github.com/elast0ny/shared_memory)
-2. 🗣 Commented on [#779](https://github.com/Smithay/wayland-rs/issues/779#issuecomment-2599628252) in [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs)
-3. ❗ Opened issue [#8536](https://github.com/swaywm/sway/issues/8536) in [swaywm/sway](https://github.com/swaywm/sway)
-4. 🗣 Commented on [#779](https://github.com/Smithay/wayland-rs/issues/779#issuecomment-2598637267) in [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs)
-5. ❗ Opened issue [#779](https://github.com/Smithay/wayland-rs/issues/779) in [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs)
-6. 🗣 Commented on [#1](https://github.com/Zai-Kun/duck.ai/issues/1#issuecomment-2594428208) in [Zai-Kun/duck.ai](https://github.com/Zai-Kun/duck.ai)
-7. ❗ Opened issue [#19](https://github.com/gaultier/blog/issues/19) in [gaultier/blog](https://github.com/gaultier/blog)
-8. 🗣 Commented on [#238](https://github.com/artemsen/swayimg/issues/238#issuecomment-2590304034) in [artemsen/swayimg](https://github.com/artemsen/swayimg)
-9. ❗ Opened issue [#238](https://github.com/artemsen/swayimg/issues/238) in [artemsen/swayimg](https://github.com/artemsen/swayimg)
-10. 🗣 Commented on [#752](https://github.com/is-a-good-dev/register/pull/752#issuecomment-2516409108) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+1. 🗣 Commented on [#3](https://github.com/Zai-Kun/rustyclip/issues/3#issuecomment-2604894400) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+2. 🗣 Commented on [#3](https://github.com/Zai-Kun/rustyclip/issues/3#issuecomment-2604893629) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+3. 🗣 Commented on [#3](https://github.com/Zai-Kun/rustyclip/issues/3#issuecomment-2604887758) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
+4. ❗ Opened issue [#110](https://github.com/elast0ny/shared_memory/issues/110) in [elast0ny/shared_memory](https://github.com/elast0ny/shared_memory)
+5. 🗣 Commented on [#779](https://github.com/Smithay/wayland-rs/issues/779#issuecomment-2599628252) in [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs)
+6. ❗ Opened issue [#8536](https://github.com/swaywm/sway/issues/8536) in [swaywm/sway](https://github.com/swaywm/sway)
+7. 🗣 Commented on [#779](https://github.com/Smithay/wayland-rs/issues/779#issuecomment-2598637267) in [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs)
+8. ❗ Opened issue [#779](https://github.com/Smithay/wayland-rs/issues/779) in [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs)
+9. 🗣 Commented on [#1](https://github.com/Zai-Kun/duck.ai/issues/1#issuecomment-2594428208) in [Zai-Kun/duck.ai](https://github.com/Zai-Kun/duck.ai)
+10. ❗ Opened issue [#19](https://github.com/gaultier/blog/issues/19) in [gaultier/blog](https://github.com/gaultier/blog)
 <!--END_SECTION:activity-->
