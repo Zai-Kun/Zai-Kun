@@ -35,11 +35,11 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.3) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
-2. 🚀 Published release [v0.0.2](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.2) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
-3. 🚀 Published release [v0.0.1](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.1) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
-4. 💪 Opened PR [#1](https://github.com/OTAKUWeBer/AutoChessBot/pull/1) in [OTAKUWeBer/AutoChessBot](https://github.com/OTAKUWeBer/AutoChessBot)
-5. 🗣 Commented on [#8542](https://github.com/swaywm/sway/pull/8542#issuecomment-2614830922) in [swaywm/sway](https://github.com/swaywm/sway)
+1. ❗ Opened issue [#198](https://github.com/nashaofu/xcap/issues/198) in [nashaofu/xcap](https://github.com/nashaofu/xcap)
+2. 🚀 Published release [v0.0.3](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.3) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
+3. 🚀 Published release [v0.0.2](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.2) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
+4. 🚀 Published release [v0.0.1](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.1) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
+5. 💪 Opened PR [#1](https://github.com/OTAKUWeBer/AutoChessBot/pull/1) in [OTAKUWeBer/AutoChessBot](https://github.com/OTAKUWeBer/AutoChessBot)
 6. 🗣 Commented on [#916](https://github.com/rvaiya/keyd/issues/916#issuecomment-2605462674) in [rvaiya/keyd](https://github.com/rvaiya/keyd)
 7. 🗣 Commented on [#916](https://github.com/rvaiya/keyd/issues/916#issuecomment-2605458826) in [rvaiya/keyd](https://github.com/rvaiya/keyd)
 8. ❗ Opened issue [#576](https://github.com/xremap/xremap/issues/576) in [xremap/xremap](https://github.com/xremap/xremap)
