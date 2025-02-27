@@ -35,14 +35,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685456680) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
-2. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685420176) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
-3. ❗ Opened issue [#396](https://github.com/enigo-rs/enigo/issues/396) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
-4. ❗ Opened issue [#198](https://github.com/nashaofu/xcap/issues/198) in [nashaofu/xcap](https://github.com/nashaofu/xcap)
-5. 🚀 Published release [v0.0.3](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.3) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
-6. 🚀 Published release [v0.0.2](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.2) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
-7. 🚀 Published release [v0.0.1](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.1) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
-8. 💪 Opened PR [#1](https://github.com/OTAKUWeBer/AutoChessBot/pull/1) in [OTAKUWeBer/AutoChessBot](https://github.com/OTAKUWeBer/AutoChessBot)
-9. ❗ Opened issue [#916](https://github.com/rvaiya/keyd/issues/916) in [rvaiya/keyd](https://github.com/rvaiya/keyd)
+1. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685976322) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+2. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685456680) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+3. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685420176) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+4. ❗ Opened issue [#396](https://github.com/enigo-rs/enigo/issues/396) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+5. ❗ Opened issue [#198](https://github.com/nashaofu/xcap/issues/198) in [nashaofu/xcap](https://github.com/nashaofu/xcap)
+6. 🚀 Published release [v0.0.3](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.3) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
+7. 🚀 Published release [v0.0.2](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.2) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
+8. 🚀 Published release [v0.0.1](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.1) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
+9. 💪 Opened PR [#1](https://github.com/OTAKUWeBer/AutoChessBot/pull/1) in [OTAKUWeBer/AutoChessBot](https://github.com/OTAKUWeBer/AutoChessBot)
 10. 🗣 Commented on [#3](https://github.com/Zai-Kun/rustyclip/issues/3#issuecomment-2605110016) in [Zai-Kun/rustyclip](https://github.com/Zai-Kun/rustyclip)
 <!--END_SECTION:activity-->
