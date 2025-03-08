@@ -35,14 +35,14 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2688009339) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
-2. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2687388984) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
-3. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2686245296) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
-4. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685976322) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
-5. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685456680) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
-6. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685420176) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
-7. ❗ Opened issue [#396](https://github.com/enigo-rs/enigo/issues/396) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
-8. ❗ Opened issue [#198](https://github.com/nashaofu/xcap/issues/198) in [nashaofu/xcap](https://github.com/nashaofu/xcap)
-9. 🚀 Published release [v0.0.3](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.3) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
-10. 🚀 Published release [v0.0.2](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.2) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
+1. 🚀 Published release [v0.0.4](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.4) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
+2. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2688009339) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+3. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2687388984) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+4. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2686245296) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+5. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685976322) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+6. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685456680) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+7. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2685420176) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+8. ❗ Opened issue [#396](https://github.com/enigo-rs/enigo/issues/396) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
+9. ❗ Opened issue [#198](https://github.com/nashaofu/xcap/issues/198) in [nashaofu/xcap](https://github.com/nashaofu/xcap)
+10. 🚀 Published release [v0.0.3](https://github.com/Zai-Kun/2d-chess-pieces-detection/releases/tag/v0.0.3) in [Zai-Kun/2d-chess-pieces-detection](https://github.com/Zai-Kun/2d-chess-pieces-detection)
 <!--END_SECTION:activity-->
