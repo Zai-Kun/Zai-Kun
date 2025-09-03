@@ -35,7 +35,7 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/asweigart/pyautogui/issues/111#issuecomment-2779958202) in [asweigart/pyautogui](https://github.com/asweigart/pyautogui)
+1. ❗ Opened issue [#1](https://github.com/sudoAlphaX/dotfiles/issues/1) in [sudoAlphaX/dotfiles](https://github.com/sudoAlphaX/dotfiles)
 2. 🗣 Commented on [#2](https://github.com/Zai-Kun/duck.ai/issues/2#issuecomment-2738581367) in [Zai-Kun/duck.ai](https://github.com/Zai-Kun/duck.ai)
 3. 🗣 Commented on [#2](https://github.com/Zai-Kun/duck.ai/issues/2#issuecomment-2738562202) in [Zai-Kun/duck.ai](https://github.com/Zai-Kun/duck.ai)
 4. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2731262400) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
