@@ -35,7 +35,7 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1699](https://github.com/waydroid/waydroid/issues/1699#issuecomment-3281741147) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
+1. ❗ Opened issue [#1](https://github.com/sudoAlphaX/dotfiles/issues/1) in [sudoAlphaX/dotfiles](https://github.com/sudoAlphaX/dotfiles)
 2. ❗ Opened issue [#1](https://github.com/sudoAlphaX/dotfiles/issues/1) in [sudoAlphaX/dotfiles](https://github.com/sudoAlphaX/dotfiles)
 3. 🗣 Commented on [#2](https://github.com/Zai-Kun/duck.ai/issues/2#issuecomment-2738562202) in [Zai-Kun/duck.ai](https://github.com/Zai-Kun/duck.ai)
 4. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2731262400) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
