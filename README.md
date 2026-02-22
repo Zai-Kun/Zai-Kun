@@ -35,9 +35,9 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/someshkar/colabcat/issues/14#issuecomment-3849991574) in [someshkar/colabcat](https://github.com/someshkar/colabcat)
-2. 🗣 Commented on [#14](https://github.com/someshkar/colabcat/issues/14#issuecomment-3833653940) in [someshkar/colabcat](https://github.com/someshkar/colabcat)
-3. ❗ Opened issue [#1](https://github.com/sudoAlphaX/dotfiles/issues/1) in [sudoAlphaX/dotfiles](https://github.com/sudoAlphaX/dotfiles)
+1. 💪 Opened PR [#33165](https://github.com/is-a-dev/register/pull/33165) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#14](https://github.com/someshkar/colabcat/issues/14#issuecomment-3849991574) in [someshkar/colabcat](https://github.com/someshkar/colabcat)
+3. 🗣 Commented on [#14](https://github.com/someshkar/colabcat/issues/14#issuecomment-3833653940) in [someshkar/colabcat](https://github.com/someshkar/colabcat)
 4. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2731262400) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
 5. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2731258503) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
 6. 🗣 Commented on [#396](https://github.com/enigo-rs/enigo/issues/396#issuecomment-2731247114) in [enigo-rs/enigo](https://github.com/enigo-rs/enigo)
