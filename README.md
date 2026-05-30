@@ -35,7 +35,7 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Blatzar/scraping-tutorial/issues/14#issuecomment-4148812439) in [Blatzar/scraping-tutorial](https://github.com/Blatzar/scraping-tutorial)
+1. 🗣 Commented on [#13376](https://github.com/libretro/RetroArch/issues/13376#issuecomment-4583108745) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
 2. 🗣 Commented on [#14](https://github.com/Blatzar/scraping-tutorial/issues/14#issuecomment-4083193495) in [Blatzar/scraping-tutorial](https://github.com/Blatzar/scraping-tutorial)
 3. 🗣 Commented on [#33165](https://github.com/is-a-dev/register/pull/33165#issuecomment-3993035911) in [is-a-dev/register](https://github.com/is-a-dev/register)
 4. 🗣 Commented on [#33165](https://github.com/is-a-dev/register/pull/33165#issuecomment-3969634179) in [is-a-dev/register](https://github.com/is-a-dev/register)
