@@ -36,7 +36,7 @@
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Zai-Kun/Speech-Wich/issues/1#issuecomment-5798694618) in [Zai-Kun/Speech-Wich](https://github.com/Zai-Kun/Speech-Wich)
-2. 🗣 Commented on [#2880](https://github.com/KRTirtho/spotube/issues/2880#issuecomment-5784022070) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+2. 🗣 Commented on [#2880](https://github.com/team-spotube/spotube/issues/2880#issuecomment-5784022070) in [team-spotube/spotube](https://github.com/team-spotube/spotube)
 3. 🗣 Commented on [#33165](https://github.com/is-a-dev/register/pull/33165#issuecomment-3993035911) in [is-a-dev/register](https://github.com/is-a-dev/register)
 4. 🗣 Commented on [#33165](https://github.com/is-a-dev/register/pull/33165#issuecomment-3969634179) in [is-a-dev/register](https://github.com/is-a-dev/register)
 5. 🗣 Commented on [#14](https://github.com/someshkar/colabcat/issues/14#issuecomment-3833653940) in [someshkar/colabcat](https://github.com/someshkar/colabcat)
