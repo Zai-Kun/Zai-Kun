@@ -35,8 +35,8 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#665](https://github.com/pykeio/ort/pull/665) in [pykeio/ort](https://github.com/pykeio/ort)
-2. 🗣 Commented on [#1](https://github.com/Zai-Kun/Speech-Wich/issues/1#issuecomment-5798694618) in [Zai-Kun/Speech-Wich](https://github.com/Zai-Kun/Speech-Wich)
+1. 💪 Opened PR [#2](https://github.com/nashaofu/wayshot/pull/2) in [nashaofu/wayshot](https://github.com/nashaofu/wayshot)
+2. 💪 Opened PR [#665](https://github.com/pykeio/ort/pull/665) in [pykeio/ort](https://github.com/pykeio/ort)
 3. 🗣 Commented on [#2880](https://github.com/team-spotube/spotube/issues/2880#issuecomment-5784022070) in [team-spotube/spotube](https://github.com/team-spotube/spotube)
 4. 🗣 Commented on [#33165](https://github.com/is-a-dev/register/pull/33165#issuecomment-3969634179) in [is-a-dev/register](https://github.com/is-a-dev/register)
 5. 🗣 Commented on [#14](https://github.com/someshkar/colabcat/issues/14#issuecomment-3833653940) in [someshkar/colabcat](https://github.com/someshkar/colabcat)
